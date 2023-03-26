@@ -19,6 +19,4 @@
 <hr>
 
 ## Inspiração
-Projeto desenvolvido usando como inspiração um desafio do site FrontEnd Mentor.
-<br>
-Para acessar o projeto original do FrontEnd Mentor, <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">clique aqui</a>.
+Projeto básico desenvolvido usando como inspiração um desafio do site FrontEnd Mentor, afim de praticar os conenhecimentos bases em HTML e CSS.
