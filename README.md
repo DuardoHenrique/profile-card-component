@@ -19,4 +19,4 @@
 <hr>
 
 ## Inspiração
-Projeto básico desenvolvido usando como inspiração um desafio do site FrontEnd Mentor, afim de praticar os conenhecimentos bases em HTML.
+Projeto básico desenvolvido usando como inspiração um desafio do site FrontEnd Mentor, afim de praticar os conenhecimentos bases em HTML e CSS.
